@@ -12,6 +12,8 @@ haoone-cli 有二个用途：
 
 你可以使用 haoone-cli 搭建自己的 skill ，比如实现 下载 B 站视频，调用 haoone-cli 转录出字幕，再生成文字稿 md 文件，放入 obsidian 知识库中。haoone-cli 解决了整个流程中关键的不限视频时长，转录快，高精度的字幕生成。
 
+haoone-cli 可能是市面上最快的 qwen3-asr 转录程序，针对长音视频专门优化，默认开启 GPU 加速。
+
 
 终端命令统一为：
 
@@ -26,7 +28,7 @@ haoone-cli
 
 haoone-cli 与 haoone app 可以完美互相配合使用，haoone-cli 用于一键转录，转录后的文件会自动进入 haoone app ，打开软件后，可以实现高效的字幕二次编辑。
 
-模型的安装与 haoone-cli 的安装都可以在 haoone app 一键完成。
+模型的安装与 haoone-cli 的安装都可以在 haoone app 一键完成。实现一键懒人化安装。
 
 ### haoone 软件特点：
 
