@@ -54,11 +54,6 @@ haoone-cli 与 haoone app 可以完美互相配合使用，haoone-cli 用于一�
 ![软件截图](https://cdn.haoai.pro/assets/h-2.hao.webp)
 ![软件截图](https://cdn.haoai.pro/assets/h-3.hao.webp)
 ![软件截图](https://cdn.haoai.pro/assets/h-4.hao.webp)
-![软件截图](https://cdn.haoai.pro/assets/h-5.hao.webp)
-![软件截图](https://cdn.haoai.pro/assets/h-6.hao.webp)
-![软件截图](https://cdn.haoai.pro/assets/h-7.hao.webp)
-![软件截图](https://cdn.haoai.pro/assets/h-8.hao.webp)
-![软件截图](https://cdn.haoai.pro/assets/h-9.hao.webp)
 
 ## 安装工具
 
